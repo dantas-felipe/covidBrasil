@@ -13,7 +13,7 @@ https://dantas-felipe.github.io/covidBrasil
 Para baixar o projeto em sua máquina basta dar um clone:
 
 ```
-git clone https://github.com/dantas-felipe/site-meetMinas.git
+git clone https://github.com/dantas-felipe/covidBrasil.git
 ```
 
 Ou realizar o download do arquivo zip no repositório no github.
